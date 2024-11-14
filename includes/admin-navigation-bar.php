@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg bg-body-secondary  sticky-top">
     <div class="container-fluid">
         <a class="navbar-brand ms-5 me-auto " href="">
-            <img src="../../images/logo.svg" alt="logo" class="logo ">
+            <img src="../../images/Logo.png" alt="logo" class="logo ">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

@@ -3,7 +3,7 @@
 define("dbServerName", "localhost");
 define("dbUserName", "root");
 define("dbPassword", "");
-define("dbName", "optimal_nutrition_hub");
+define("dbName", "pc_care");
 
 $con = mysqli_connect(dbServerName, dbUserName, dbPassword, dbName);
 

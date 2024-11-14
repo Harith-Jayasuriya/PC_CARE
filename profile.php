@@ -31,7 +31,8 @@ if (isset($_POST['custLogout'])) {
   <link rel="stylesheet" href="css/login.css">
   <link rel="stylesheet" href="css/footer.css">
 
-  <title>Login-Optimal Nutrition Hub</title>
+  <title>Login-PC - CARE soloutions</title>
+ 
 </head>
 
 <body>

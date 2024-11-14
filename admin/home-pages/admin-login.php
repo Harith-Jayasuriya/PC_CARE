@@ -1,30 +1,30 @@
 <?php
-// Include the database configuration file
+
 include('../../database/config.php');
 session_start();
 
-//check if the form is subbmited or not
+
 if (isset($_POST['staff_login'])) {
 
-    //add user inputs
+    
     $username = $_POST['username'];
     $password = $_POST['password'];
 
-    //verifi if password store in DB in corect username
+    
     $select_quirey = "SELECT * FROM staff WHERE staff_username = '$username'";
 
     $result = mysqli_query($con, $select_quirey);
     $row_count = mysqli_num_rows($result);
     $row_data = mysqli_fetch_assoc($result);
     if ($row_count > 0) {
-        //check user input password and DB store password are maching or not 
+        
         if ($password == $row_data['staff_pwd']) {
-            if ($row_data['staff_is_active'] == 1) { //check if user is active
+            if ($row_data['staff_is_active'] == 1) { 
 
-                $_SESSION['staffId'] = $row_data['staff_id']; // store staff id in session
+                $_SESSION['staffId'] = $row_data['staff_id']; 
                 $staff_type_id = ($row_data['fk_staff_type_id']);
 
-                // Redirect to the relevant home page according to staff type id
+                
                 if ($staff_type_id == 1000) {
                     header("location:admin-home.php");
                     exit();
@@ -64,7 +64,7 @@ if (isset($_POST['staff_login'])) {
     <link rel="stylesheet" href="../../css/footer.css">
     <link rel="stylesheet" href="../../css/login.css">
 
-    <title>Admin Home-Optimal Nutrition Hub</title>
+    <title>Admin PC - CARE soloutions</title>
 </head>
 
 <body style="background-color: lightgray;">
@@ -78,7 +78,7 @@ if (isset($_POST['staff_login'])) {
     <div class="container row my-5 mx-auto ">
         <div class="wrapper col-md-6 mx-auto">
             <form action="#" method="post" style="margin: 4%;">
-                <h1>Login-Optimal Nutrition Hub</h1>
+                <h1>Login PC - CARE soloutions</h1>
                 <div class="input-box">
                     <input type="text" name="username" id="username" placeholder="Username" required>
                 </div>
@@ -100,8 +100,8 @@ if (isset($_POST['staff_login'])) {
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
-                    <p class="copyright-text">Copyright &copy; 2023 Optimal Nutrition Hub | Devoloped by -
-                        <a href="#"> BattleShip</a>
+                <p class="copyright-text">Copyright &copy; 2024 PC - CARE soloutions | Devoloped by -
+                        <a href="#"> Data Pirates</a>
                     </p>
                 </div>
             </div>

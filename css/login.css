@@ -14,7 +14,7 @@ body {
     |----------------------------------------- */
 .wrapper {
     width: 525px;
-    background: rgb(22, 21, 21);
+    background: rgb(26, 4, 41);
     color: aliceblue;
     border-radius: 20px;
     padding: 14px 30px;
@@ -86,7 +86,7 @@ body {
 .wrapper .btn {
     width: 50%;
     height: 50px;
-    background-color: orangered;
+    background-color: rgb(88, 6, 133);
     border: none;
     outline: none;
     border-radius: 40px;

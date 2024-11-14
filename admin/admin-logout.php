@@ -29,7 +29,7 @@ if (isset($_POST['logout'])) {
     <link rel="stylesheet" href="../css/footer.css">
     <link rel="stylesheet" href="../css/login.css">
 
-    <title>Admin Home-Optimal Nutrition Hub</title>
+    <title>Admin Home-PC - CARE soloutions</title>
 </head>
 
 <body style="background-color: lightgray;">
@@ -37,7 +37,7 @@ if (isset($_POST['logout'])) {
     <nav class="navbar navbar-expand-lg bg-body-secondary  sticky-top">
         <div class="container-fluid">
             <a class="navbar-brand ms-5 me-auto " href="">
-                <img src="../images/logo.svg" alt="logo" class="logo ">
+                <img src="../images/Logo.png" alt="logo" class="logo ">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -79,8 +79,8 @@ if (isset($_POST['logout'])) {
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
-                    <p class="copyright-text">Copyright &copy; 2023 Optimal Nutrition Hub | Devoloped by -
-                        <a href="#"> BattleShip</a>
+                <p class="copyright-text">Copyright &copy; 2024 PC - CARE soloutions | Devoloped by -
+                        <a href="#"> Data Pirates</a>
                     </p>
                 </div>
             </div>

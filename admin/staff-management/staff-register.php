@@ -150,8 +150,8 @@ if (isset($_POST['staffRegister'])) {
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
-                    <p class="copyright-text">Copyright &copy; 2023 Optimal Nutrition Hub | Devoloped by -
-                        <a href="#"> BattleShip</a>
+                <p class="copyright-text">Copyright &copy; 2024 PC - CARE soloutions | Devoloped by -
+                        <a href="#"> Data Pirates</a>
                     </p>
                 </div>
             </div>

@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// Include the database configuration file
+
 include('database/config.php');
 ?>
 
@@ -16,7 +16,7 @@ include('database/config.php');
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/home.css">
   <link rel="stylesheet" href="css/footer.css">
-  <title>Home-Optimal Nutrition Hub</title>
+  <title>Home PC - CARE soloutions</title>
 </head>
 
 <body>
@@ -45,7 +45,7 @@ include('database/config.php');
         <div class="row">
           <?php
           $itemSelectQuery = "SELECT * FROM item ORDER BY rand()";
-          getItemCard($con, $itemSelectQuery); //call function
+          getItemCard($con, $itemSelectQuery); 
           ?>
         </div>
     <?php }
@@ -63,7 +63,7 @@ include('database/config.php');
       <div class="row">
         <?php
         $itemSelectQuery = "SELECT * FROM item WHERE fk_category_id = $categoryId";
-        getItemCard($con, $itemSelectQuery); //call function
+        getItemCard($con, $itemSelectQuery); 
         ?>
       </div>
     <?php }
@@ -80,7 +80,7 @@ include('database/config.php');
       <div class="row">
         <?php
         $itemSelectQuery = "SELECT * FROM item WHERE item_name LIKE '%$itemName%'";
-        getItemCard($con, $itemSelectQuery); //call function
+        getItemCard($con, $itemSelectQuery); 
         ?>
       </div>
     <?php }

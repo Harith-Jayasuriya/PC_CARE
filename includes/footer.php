@@ -2,7 +2,7 @@
     <footer class="site-footer">
         <div class="container">
             <div class="row">
-                <div class="col-sm-3  col-md-5">
+                <!-- <div class="col-sm-3  col-md-5">
                     <h5>WHO WE ARE</h5>
                     <p class="text-justify">
                         As the leading sports nutrition distributor in Sri Lanka,
@@ -10,9 +10,9 @@
                         journey.We offer a selection of products designed to enhance your
                         performance and fuel your ambitions.
                     </p>
-                </div>
+                </div> -->
 
-                <div class="col-xs-15 col-md-3">
+                <div class="col-xs-1 col-md-4">
                     <h6>QUICK LINKS</h6>
                     <ul class="footer-links">
                         <li><a href="index.php">Product</a></li>
@@ -22,33 +22,37 @@
                     </ul>
                 </div>
 
-                <div class="col-xs-15 col-md-4">
+                <div class="col-xs-15 col-md-6">
                     <h6>CONTACT</h6>
                     <ul class="footer-links">
                         <li>For Product Advice : +94 77 556 0022</li>
                         <li> For Delivery Information : +94 77 112 6970</li>
-                        <li> Email: <a href="optimalnutritionhub@gmail.com ">optimalnutritionhub@gmail.com </a>
+                        <li> Hotline : +94 77 112 6970</li>
+                        <li> Email: <a href="pccaresoloutions@gmail.com ">pccaresoloutions@gmail.com </a>
                         </li>
                     </ul>
+                </div>
+
+                <div class="col-sm-1 col-md-2">
+                    <h6>LOCATION </h6>
+                    <address>
+                        No 22,<br>
+                        Galle Road,<br>
+                        Colombo 05<br>
+                        Sri Lanka.
+                    </address>
                 </div>
             </div>
         </div>
 
         <div class="container">
             <div class="row">
-                <div class="col-sm-1 col-md-2">
-                    <h6> LOCATION </h6>
-                    <address>
-                        No 58,<br>
-                        Galle Road,<br>
-                        Colombo 03.
-                    </address>
+                
+
+                <div class="col-sm-1 col-md-4">
                 </div>
 
-                <div class="col-sm-1 col-md-3">
-                </div>
-
-                <div class="col-sm-1 col-md-6">
+                <div class="col-sm-1 col-md-4">
                     <h6> SOCIAL LINKS </h6>
                     <ul class="social-icons">
                         <li><a class="facebook" href="facebook"><img src="icons/facebook-circle-fill.svg" alt="" style="width: 32px;"></a></li>
@@ -67,8 +71,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
-                    <p class="copyright-text">Copyright &copy; 2023 Optimal Nutrition Hub | Devoloped by -
-                        <a href="#"> BattleShip</a>
+                    <p class="copyright-text">Copyright &copy; 2024 PC - CARE soloutions | Devoloped by -
+                        <a href="#">Data Pirates</a>
                     </p>
                 </div>
             </div>

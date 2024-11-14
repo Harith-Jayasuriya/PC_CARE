@@ -38,7 +38,7 @@ if (isset($_GET['ItemId'])) {
     <link rel="stylesheet" href="../../css/footer.css">
     <link rel="stylesheet" href="../../css/staff-management.css">
 
-    <title>Item Management-Optimal Nutrition Hub</title>
+    <title>Item Management PC - CARE soloutions</title>
 
 </head>
 

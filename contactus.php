@@ -15,7 +15,7 @@ include('database/config.php');
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/footer.css">
-    <title>Contact Us-Optimal Nutrition Hub</title>
+    <title>Contact Us PC - CARE solutions</title>
 </head>
 
 <body>
@@ -34,12 +34,12 @@ include('database/config.php');
                     <h3><b></b></h3>
                     <p>&nbsp</p>
                     <h5><b>Location</b></h5>
-                    <p>No 58, Galle Road, Colombo 03<br /> </p>
+                    <p>No 22, Galle Road, Colombo 05, Sri Lanka.<br /> </p>
                     <p>&nbsp</p>
                     <h5><b>Get in touch</b></h5>
-                    <p>For Product Advice : 077 556 0022</p>
-                    <p>For Delivery Information : 077 112 6970</p>
-                    <p>Email : optimalnutritionhub@gmail.com</p>
+                    <p>For Product Advice : 078 341 5051</p>
+                    <p>For Delivery Information : 072 344 6970</p>
+                    <p>Email : pccaresoloutions@gmail.com</p>
                     <p>&nbsp</p>
                     <h5><b>Opening Hours</b></h5>
                     <p>Mon to Sat : 9.00AM to 7.00PM</p>

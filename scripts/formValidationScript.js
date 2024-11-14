@@ -1,4 +1,4 @@
-// Category Add form validation start
+
 const form = document.getElementById("categoryAddForm");
 
 form.addEventListener("submit", function (event) {
@@ -9,4 +9,3 @@ form.addEventListener("submit", function (event) {
         return;
     }
 });
-// Category Add form validation end

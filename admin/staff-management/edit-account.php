@@ -53,7 +53,7 @@ if (isset($_POST['staffUpdate'])) {
     <link rel="stylesheet" href="../../css/footer.css">
     <link rel="stylesheet" href="../../css/sign-up.css">
 
-    <title>Staff Register Form-Optimal Nutrition Hub</title>
+    <title>Staff Register Form-PC - CARE soloutions</title>
 </head>
 
 <body style="background-color: white;">
@@ -188,9 +188,9 @@ if (isset($_POST['staffUpdate'])) {
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-sm-6 col-xs-12">
-                        <p class="copyright-text">Copyright &copy; 2023 Optimal Nutrition Hub | Devoloped by -
-                            <a href="#"> BattleShip</a>
-                        </p>
+                    <p class="copyright-text">Copyright &copy; 2024 PC - CARE soloutions | Devoloped by -
+                        <a href="#"> Data Pirates</a>
+                    </p>
                     </div>
                 </div>
             </div>

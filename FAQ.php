@@ -16,7 +16,7 @@ include('database/config.php');
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/footer.css">
 
-    <title>FAQ-Optimal Nutrition Hub</title>
+    <title>FAQ PC - CARE solutions</title>
 </head>
 
 <body>
@@ -31,26 +31,26 @@ include('database/config.php');
         <form>
             <h3><b>FAQ</b></h3>
             <p>&nbsp</p>
-            <h5><b>1. Where does Optimal Nutrition Hub deliver to & how much does it cost?</b></h5>
-            <p>Optimal Nutrition Hub delivers only Colombo and shipping is Rs.500.00 inside Colombo area. Please
-                refer Delivery & Shipping for more information. </p>
+            <h5><b>1. What is the cost and delivery location of PC-Care Solutions?</b></h5>
+            <p>PC-Care Solutions delivers only within Colombo, and the shipping cost is Rs.500.00 for deliveries inside the Colombo area.
+                 Please refer to our Delivery & Shipping section for more information.</p>
             <p>&nbsp</p>
-            <h5><b>2. How long does it usually take for an item purchased online to be shipped?</b></h5>
-            <p>We strive to deliver orders within 3-4 working days. Please refer Delivery & Shipping for more
-                information.</p>
+            <h5><b>2. How long does it typically take for an online order to be shipped?</b></h5>
+            <p>We strive to deliver orders within 3-4 working days. Please refer to our Delivery & Shipping section for more information.</p>
             <p>&nbsp</p>
-            <h5><b>3. What if I am not present to receive the package?</b></h5>
-            <p>Our company will call you before delivering your order. If you are not available to receive the
-                package at the specified delivery address or do not continuously respond to the given contact
-                number, you will have to pick up your package from the Supplement Factory store.</p>
+            <h5><b>3. What happens if I'm not around to accept the package?</b></h5>
+            <p>Our company will call you before delivering your order. 
+                If you are not available to receive the package at the specified delivery address or do 
+                not respond to the given contact number, you will need to pick up your package from the PC-Care Solutions store.</p>
             <p>&nbsp</p>
-            <h5><b>4. What payment methods do you accept online?</b></h5>
-            <p>We currently, only accept Cash on Delivery</p>
+            <h5><b>4. Which online payment options are accepted by you?</b></h5>
+            <p>We currently accept only Cash on Delivery.</p>
             <p>&nbsp</p>
-            <h5><b>5. Why do I need to sign-up to make an online purchase?</b></h5>
-            <p>Registering with us helps speed up the ordering process for you and allows you to keep track of
-                your orders. It also assists in re-ordering as we maintain a record of your previous
-                purchases</p>
+            <h5><b>5. Why is registering required in order to make an online purchase?</b></h5>
+            <p>Registering with us helps speed up the ordering process for you and allows you to keep track of your orders.
+                 It also assists in re-ordering as we maintain a record of your previous purchases.
+
+</p>
         </form>
     </div>
     <!-- FAQ section end -->

@@ -22,7 +22,7 @@ if (!isset($_SESSION['staffId'])) {
     <link rel="stylesheet" href="../../css/footer.css">
     <link rel="stylesheet" href="../../css/admin-home.css">
 
-    <title>Inventory Manager Home-Optimal Nutrition Hub</title>
+    <title>Inventory Manager Home PC - CARE soloutions</title>
 </head>
 
 <body>
@@ -74,9 +74,9 @@ if (!isset($_SESSION['staffId'])) {
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-sm-6 col-xs-12">
-                        <p class="copyright-text">Copyright &copy; 2023 Optimal Nutrition Hub | Devoloped by -
-                            <a href="#"> BattleShip</a>
-                        </p>
+                    <p class="copyright-text">Copyright &copy; 2024 PC - CARE soloutions | Devoloped by -
+                        <a href="#"> Data Pirates</a>
+                    </p>
                     </div>
                 </div>
             </div>

@@ -45,7 +45,7 @@ if (isset($_POST['customersing'])) {
   <link rel="stylesheet" href="css/footer.css">
   <link rel="stylesheet" href="css/sign-up.css">
 
-  <title>SingUp-Optimal Nutrition Hub</title>
+  <title>SingUp PC - CARE soloutions</title>
 </head>
 
 <body style="background: rgb(255, 224, 213);">
@@ -61,7 +61,7 @@ if (isset($_POST['customersing'])) {
     <div class="col-md-6 mx-auto">
       <div class="wrapper">
         <form action="#" method="post">
-          <h2>Sign up-Optimal Nutrition Hub</h2>
+          <h2>Sign up PC - CARE soloutions</h2>
 
           <div class="input-box">
             <input type="email" placeholder="@Email" name="email" id="email" required>

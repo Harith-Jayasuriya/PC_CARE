@@ -2,7 +2,7 @@
     |   footer section
     |------------------------------------ */
 .site-footer {
-    background-color: #5f6061;
+    background-color: #060606;
     color: #fff;
     line-height: 24px;
     padding-top: 45px;
@@ -19,13 +19,13 @@
 
 .site-footer h5 {
     text-align: center;
-    color: #f37820;
+    color: #832e85;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .site-footer h6 {
-    margin-left: 60px;
-    color: #f37820;
+    /* margin-left: 60px; */
+    color: #832e85;
     font-family: Arial, Helvetica, sans-serif;
 }
 

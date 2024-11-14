@@ -22,7 +22,7 @@ if (!isset($_SESSION['staffId'])) {
     <link rel="stylesheet" href="../../css/footer.css">
     <link rel="stylesheet" href="../../css/admin-home.css">
 
-    <title>Admin Home-Optimal Nutrition Hub</title>
+    <title>Admin Home-PC - CARE soloutions</title>
 </head>
 
 <body>
@@ -89,7 +89,7 @@ if (!isset($_SESSION['staffId'])) {
                     <div>Inquiry Management</div>
                 </div>
             </a>
-            <a href="" class="nav-link col-lg-2 btn-module">
+            <a href="../staff-management/adminreviews.php" class="nav-link col-lg-2 btn-module">
                 <div class="module-content">
                     <div><i class="material-icons" style="font-size: 40px;color:white;">comment</i></div>
                     <div>Feedback Management</div>
@@ -112,8 +112,8 @@ if (!isset($_SESSION['staffId'])) {
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-6 col-xs-12">
-                    <p class="copyright-text">Copyright &copy; 2023 Optimal Nutrition Hub | Devoloped by -
-                        <a href="#"> BattleShip</a>
+                <p class="copyright-text">Copyright &copy; 2024 PC - CARE soloutions | Devoloped by -
+                        <a href="#"> Data Pirates</a>
                     </p>
                 </div>
             </div>

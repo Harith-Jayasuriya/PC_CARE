@@ -16,7 +16,7 @@ include('database/config.php');
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/footer.css">
 
-  <title>About Us-Optimal Nutrition Hub</title>
+  <title>About Us PC - CARE solutions</title>
 </head>
 
 <body>
@@ -32,30 +32,37 @@ include('database/config.php');
     <div class="col-10 mx-auto mt-5 bg-body-tertiary p-5 ">
       <form>
         <h3><b>About Us</b></h3>
-        <p>Step into a world of unparalleled wellness, where your fitness goals become achievable realities. As Sri
-          Lanka's leading Sports Nutrition Distributor, Optimal Nutrition Hub serves as your gateway to a transformative
-          journey. We take pride in being the sole authorized distributor for prestigious American brands, offering a
-          curated selection of products designed to elevate your performance and fuel your ambitions.</p>
+        <p>Step into a world of cutting-edge technology and unparalleled service at PC - CARE Solutions,
+      your premier destination for computer hardware and accessories. As Sri Lanka's leading distributor 
+      of computer parts, we pride ourselves on offering a curated selection of products designed to meet
+        your every computing need. Discover a transformative shopping experience where your technology goals 
+        become achievable realities.
+
+
+</p>
         <h5><b>Our Journey</b></h5>
-        <p>Our story is one of unwavering dedication and a relentless pursuit of excellence. We emerged when the
-          supplement market was in its infancy, driven by a mission to redefine the industry. For us, it wasn't just
-          about sourcing products - it was about establishing a new standard. We committed ourselves to procuring brands
-          directly from their origin, ensuring the highest quality and authenticity with every single offering. This
-          unwavering commitment is the cornerstone of our company motto: "Do it right or not do it at all!!!"</p>
+        <p>Our journey is one of steadfast commitment and an unyielding pursuit of excellence.
+           We entered the computer and computer parts market with a bold vision to redefine industry standards. 
+           Beyond just offering products, we dedicated ourselves to setting a new benchmark by sourcing directly 
+           from manufacturers, guaranteeing unmatched quality and authenticity in every item we offer. This dedication 
+           forms the core of our motto at PC - CARE Solutions: "Do it right or not do it at all!!!"
+</p>
         <h5><b>Our Mission</b></h5>
-        <p>Our dedication has propelled us to the forefront of Sri Lanka's sports nutrition landscape, securing our
-          position as the undisputed Number One Provider of Genuine Sports Nutrition. But our mission goes beyond mere
-          product offerings. We believe that true success lies in the perfect fusion of superior quality and
-          exceptional customer service. From personalized consultations to comprehensive post-purchase support, our
-          team of experts is dedicated to guiding you on your journey towards optimal health and performance.</p>
-        <p>Choosing Optimal Nutrition Hub is choosing the path of certainty. Every product undergoes meticulous
-          quality control and origin verification, ensuring its authenticity and effectiveness. We don't just offer
-          products; we offer assurance. You can rest assured that every purchase is backed by our unwavering guarantee
-          of seamless verification with the brand's mother company. In a market saturated with choices, we stand out as
-          a beacon of trust and excellence, a trusted partner in your pursuit of a healthier, more vibrant you.</p>
-        <p>Join us on this transformative journey. Let Optimal Nutrition Hub be your fuel, your guide, and your
-          inspiration. Unleash your potential and experience the difference that genuine, high-quality sports
-          nutrition can make.</p>
+        <p>Our commitment has catapulted us to the forefront of Sri Lanka's computer and computer parts market, 
+          establishing PC - CARE Solutions as the unrivaled leader in Genuine Computer Hardware and Accessories. 
+          However, our mission extends beyond mere product sales. We believe that true success stems from seamlessly
+           blending top-tier quality with exceptional customer service. From personalized consultations to thorough 
+           post-purchase support, our team of experts is devoted to assisting you on your path to peak performance 
+           and technological excellence.</p>
+        <p>Choosing PC - CARE Solutions means choosing certainty. Every computer part and accessory undergoes rigorous
+           quality control and origin verification to ensure authenticity and performance. We don't just sell products;
+            we provide assurance. Rest assured that every purchase is backed by our steadfast commitment to seamless
+             verification with the original manufacturers. In a crowded market, we shine as a beacon of trust and excellence, 
+             your reliable partner in achieving optimal computing solutions.</p>
+        <p>Join us on this transformative journey. Let PC - CARE Solutions be your catalyst, 
+          your navigator, and your source of inspiration. Unleash your potential and discover 
+          the impact that genuine, high-quality computer parts and accessories can make on your
+           computing experience.</p>
       </form>
     </div>
     <!-- About Us section end -->

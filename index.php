@@ -16,7 +16,7 @@ include('database/config.php');
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/home.css">
   <link rel="stylesheet" href="css/footer.css">
-  <title>Home-Optimal Nutrition Hub</title>
+  <title>Home-PC - CARE solutions</title>
 </head>
 
 <body>
@@ -26,21 +26,23 @@ include('database/config.php');
   ?>
   <!-- Navigation bar end -->
 
-  <!-- Search bar start -->
-  <?php
-  include('includes/search-bar.php');
-  ?>
-  <!-- Search bar end -->
+
 
   <!-- Top Image start -->
   <div class="carousel slide">
     <div class="carousel-inner">
       <div class="carousel-item active ">
-        <img src="images/home.jpg" class="d-block w-100" alt="...">
+        <img src="images/Banner.jpg" class="d-block w-100" alt="...">
       </div>
     </div>
   </div>
   <!-- Top Image end -->
+
+    <!-- Search bar start -->
+    <?php
+  include('includes/search-bar.php');
+  ?>
+  <!-- Search bar end -->
 
   <!-- Latest product section start -->
   <div class="container py-5 mt-5">

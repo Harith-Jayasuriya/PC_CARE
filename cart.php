@@ -25,7 +25,7 @@ include('database/config.php');
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/staff-management.css">
 
-    <title>Cart-Optimal Nutrition Hub</title>
+    <title>Cart PC - CARE solutions</title>
 </head>
 
 <body>

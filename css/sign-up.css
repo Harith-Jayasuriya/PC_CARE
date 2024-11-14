@@ -9,7 +9,7 @@
     |----------------------------------------- */
 .wrapper {
     width: 525px;
-    background: rgb(22, 21, 21);
+    background: rgb(26, 4, 41);
     color: aliceblue;
     border-radius: 20px;
     padding: 30px 30px;
@@ -114,7 +114,7 @@ select {
 .wrapper .btn {
     width: 50%;
     height: 50px;
-    background: orangered;
+    background: rgb(102, 2, 122);
     border: none;
     outline: none;
     border-radius: 40px;

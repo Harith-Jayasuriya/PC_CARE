@@ -25,7 +25,7 @@
     |------------------------------------------------------- */
 .btn-orange {
     font-size: 18px !important;
-    background-color: orangered;
+    background-color: rgb(77, 3, 114);
     font-weight: 500;
     color: white;
 }
@@ -64,14 +64,14 @@
     font-size: 16px;
     font-weight: 700;
     text-decoration: none;
-    background-color: #ec5e1c;
-    border: 2px solid #ec5e1c;
+    background-color: #6b0095;
+    border: 2px solid #7b00a8;
     color: rgb(5, 5, 5);
     border-radius: 6px;
     transition: background-color 0.3s;
 }
 
 .Registration:hover {
-    background-color: #ff8555;
+    background-color: #8d4ef2;
     border: 2px solid rgb(8, 8, 8);
 }
